@@ -14,7 +14,8 @@
 ****: Rollup
 * OP Rollup. OP, ARB
 * ZK Rollup;
-
+++[#goldenrod] Lay 0
++++ Polkadot
 ++[#lightgreen] Lay 1
 ++[#gold] Cross Chain
 ++[#lightyellow] Game & GameFi
